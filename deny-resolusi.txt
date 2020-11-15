@@ -1,6 +1,9 @@
 DENY RESOLUSI
 
 - Konsisten dalam belajar
+  * html
+  * css
+  * javascript
 - Tidak mudah putus asa
 - Haus ilmu
 - Harus mencapai target
