@@ -4,3 +4,5 @@ DENY RESOLUSI
 - Tidak mudah putus asa
 - Haus ilmu
 - Harus mencapai target
+- web development
+- frontend
