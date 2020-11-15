@@ -6,3 +6,4 @@ DENY RESOLUSI
 - Harus mencapai target
 - web development
 - frontend
+- membuat website
