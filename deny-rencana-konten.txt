@@ -1,6 +1,12 @@
 RENCANA KONTEN SAYA
 
 - sering melihat tutorial 
-- googling 
 - menambah wawasan
 - mulai belajar dari nol
+- belajar framework
+  > javascript
+    = Backbone.js
+    = Reactjs
+    = Angular
+  > php framework
+    = laravel
