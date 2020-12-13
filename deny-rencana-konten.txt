@@ -8,5 +8,6 @@ RENCANA KONTEN SAYA
   > javascript
     = Veujs
     = Reactjs
+    = Angular
   > php framework
     = laravel
