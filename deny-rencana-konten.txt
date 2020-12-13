@@ -5,7 +5,7 @@ RENCANA KONTEN SAYA
 - mulai belajar dari nol
 - belajar framework
   > javascript
-    = Backbone.js
+    = Veujs
     = Reactjs
     = Angular
   > php framework
