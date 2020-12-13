@@ -4,3 +4,10 @@ RENCANA KONTEN SAYA
 - googling 
 - menambah wawasan
 - mulai belajar dari nol
+- belajar framework
+  > javascript
+    = Veujs
+    = Reactjs
+    = Angular
+  > php framework
+    = laravel
